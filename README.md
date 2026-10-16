@@ -5,7 +5,7 @@
 <td>
 
 ### Hiwee There! 👋
-
+```
 `──────────── whoami ────────────`
 
 I'm **krvnium**,<br>
@@ -29,7 +29,7 @@ The Tools I bear *(Love-Hate Relationship)*<br>
 `chmod +x learning.sh`<br>
 &emsp;Learning everything,<br>
 &emsp;&emsp;Understanding some of it.
-
+```
 </td>
 </tr>
 </table>
