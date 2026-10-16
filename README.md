@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/krvnium"><img src="https://img.shields.io/badge/GITHUB-4DA3FF?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LINKEDIN-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR@MAIL.com"><img src="https://img.shields.io/badge/GMAIL-4DA3FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://dev.to/YOUR-ID"><img src="https://img.shields.io/badge/DEV.TO-4DA3FF?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://linkedin.com/in/apurv-vishwakarma6907"><img src="https://img.shields.io/badge/LINKEDIN-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tell.ur.cat.i.said.pspspsps@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4DA3FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://dev.to/krvnium"><img src="https://img.shields.io/badge/DEV.TO-4DA3FF?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
 
 <table>
