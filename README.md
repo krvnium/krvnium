@@ -34,3 +34,5 @@ chmod +x learning.sh
     Learning everything,
         Understanding some of it.
 ```
+
+[![An image of @krvnium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krvnium)](https://holopin.io/@krvnium)
